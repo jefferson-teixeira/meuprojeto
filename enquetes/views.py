@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from models import Enquete
+from enquetes.models import Enquete
 # Create your views here.
 
 def bemvindo(request):
